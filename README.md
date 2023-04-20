@@ -1,1 +1,1 @@
-# electronics-and-circuit-engineering
+# Electronics and Circuit Engineering
