@@ -1,0 +1,22 @@
+Circuit: * C:\Git\electronics-and-circuit-engineering\3lab\3_task\Draft3.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed May  3 18:04:51 2023
+Total elapsed time: 3.392 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200040
+traniter = 200034
+tranpoints = 100018
+accept = 100018
+rejected = 0
+matrix size = 11
+fillins = 1
+solver = Normal
+Avg thread counts: 1.0/1.0/1.0/1.0
+Matrix Compiler1: 566 bytes object code size  0.2/0.3/[0.2]
+Matrix Compiler2: 821 bytes object code size  0.2/0.4/[0.2]
+
