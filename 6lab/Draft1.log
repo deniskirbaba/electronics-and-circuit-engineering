@@ -1,0 +1,26 @@
+Circuit: * C:\Git\electronics-and-circuit-engineering\6lab\Draft1.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue May 16 23:34:15 2023
+Total elapsed time: 0.076 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4840
+traniter = 4829
+tranpoints = 1715
+accept = 1524
+rejected = 191
+matrix size = 12
+fillins = 6
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1: 1.18 KB object code size  0.5/0.4/[0.3]
+Matrix Compiler2: 1.18 KB object code size  0.5/0.3/[0.2]
+
